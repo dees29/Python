@@ -1,0 +1,5 @@
+1. This is a sample text file
+2. used for python demo purpose
+3. to read file
+4. line by line
+5. untill end of the file
